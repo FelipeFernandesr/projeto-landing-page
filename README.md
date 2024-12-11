@@ -1,7 +1,7 @@
 <h1 align="center" style="font-weight: bold;">Landing-page 💻</h1>
 
 <p align="center">
- <a href="#tech">Technologias</a> • 
+ <a href="#tech">Technologies</a> • 
  <a href="#started">Getting Started</a> • 
  <!-- <a href="#colab">Collaborators</a> • -->
  <a href="#contribute">Contribute</a>
@@ -10,7 +10,7 @@
 <h2 align="center">About the Project📜 </h2>
 <p align="center">
     <b>  
-Este projeto foi construido durante o  curso de formação da dnc no modulo 1, teve como objetivo a introdução aos fundamentos do desenvolvimento web. 
+This project was built during the dnc training course in module 1, its objective was to introduce the fundamentals of web development. 
 
 </b>
 </p>
