@@ -7,7 +7,7 @@
  <a href="#contribute">Contribute</a>
 </p>
 
-<h2 align="center">Sobre o Projeto📜 </h2>
+<h2 align="center">About the Project📜 </h2>
 <p align="center">
     <b>  
 Este projeto foi construido durante o  curso de formação da dnc no modulo 1, teve como objetivo a introdução aos fundamentos do desenvolvimento web. 
@@ -19,7 +19,7 @@ Este projeto foi construido durante o  curso de formação da dnc no modulo 1, t
      <a href="https://landing-page-felipe.netlify.app">📱 Visit this Project</a>
 </p>
 
-<h2 id="tech">💻 Technologias</h2>
+<h2 id="tech">💻 Technologies</h2>
 
 - HTML <img 
     align="left" 
@@ -36,13 +36,13 @@ Este projeto foi construido durante o  curso de formação da dnc no modulo 1, t
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
-- Bootstrap <img 
+- Javascript <img 
     align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
+    alt="Javascript"
+    title="Javascript" 
     width="17px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
 <h2 id="started">🚀 Getting started</h2>
@@ -57,7 +57,7 @@ Este projeto foi construido durante o  curso de formação da dnc no modulo 1, t
 How to clone your project
 
 ```bash
-git clone your-project-url-in-github
+git clone https://github.com/FelipeFernandesr/projeto-landing-page.git
 ```
 
 <h3>Starting</h3>
